@@ -1,3 +1,3 @@
 function myFunction() {
-    location.replace("contact.html")
+    location.href("contact.html")
   }
